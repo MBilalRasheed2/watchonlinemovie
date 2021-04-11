@@ -1,0 +1,21 @@
+
+.seletedCss {
+  border-top: 1px solid yellow;
+  border-left: 1px solid yellow;
+  border-right: 1px solid yellow;
+  border-radius: 0px;
+  height: 100%;
+  width: 50%;
+  background-color: #212529;
+  font-size: 18px;
+  pointer-events: none;
+}
+.UnseletedCss{
+    border-radius: 0px;
+    height: 100%;
+    width: 50%;
+    background-color: #212529;
+    font-size: 18px;
+    pointer-events: none;
+    border-bottom: 1px solid yellow;
+}
